@@ -1,0 +1,258 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.main ::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+.main ::-webkit-scrollbar-thumb {
+    background-color: #888; 
+    border-radius: 5px; 
+}
+
+.main ::-webkit-scrollbar-thumb:hover {
+    background-color: #555; 
+}
+
+
+.main ::-webkit-scrollbar-corner {
+    background-color: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+video{
+    height: 105vh;
+    width: 100%;
+    object-fit: cover;
+}
+.Container{
+    padding: 20px 80px;
+    color: white;
+    min-height: 106vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom, rgba(34,35,46,0.75) 50%,#121212);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 10;
+    width: 100%;
+}
+.f-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 4vh;
+}
+.f-header h1{
+    font-size: 5vh;
+}
+.f-header  .logo{
+    font-size: 10vh;
+}
+.Container  .text{
+    text-align: center;
+    /* margin-top: 12vh; */
+    font-size: 10vh;
+    font-family: 'Poppins', sans-serif;
+}
+.start a{
+    font-size: 3vh;
+    color: white;
+    font-weight: bolder;
+    border-radius: 12px;
+    background-color: red;
+    padding: 8px 70px;
+    transition: 0.3s;
+}
+.start a:hover{
+    background-color: #ff3e3e;
+}
+.start{
+    margin-bottom: 5vh;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main{
+    min-height: 100vh;
+    display: flex;
+    background-color: #121212;
+    color: #fff;
+    max-height: 100vh;
+    padding-top: 1rem;
+}
+.left{
+    width: 30%;
+    padding: 24px 24px 24px 34px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    overflow-y: scroll;
+}
+.right{
+    width: 100%;
+    overflow: scroll;
+    padding: 24px 24px 24px 34px;
+}
+.prov_list{
+    padding: 6px 0;
+    padding-left: 16px;
+    border-radius: 10px;
+    color: #818181;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.prov_list.active{
+    color: #f44250;
+    background-color: #383838;
+}
+.prov_list:not(.active):hover{
+    color: #f7f7f7;
+}
+.food_list{
+    margin-bottom: 2rem;
+}
+.food_list h1{
+    margin-bottom: 1rem;
+}
+.food_foto_container{
+    position: relative;
+}
+.control_left,.control_right{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    color: #fff;
+    text-align: center;
+    opacity: .8;
+    transition: opacity .15s ease;
+    cursor: pointer;
+}
+.control_left svg,
+.control_right svg{
+    width: 30px;
+    height: 30px;
+}
+.control_left{
+    left: 0;
+}
+.control_right{
+    right: 0;
+}
+.control_left:hover,
+.control_right:hover{
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+    opacity: 2;
+}
+
+.food_foto_container{
+    width: 50%;
+    margin: 0.5rem 0;
+}
+.food_foto_container img{
+    width: 100%;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    .Container{
+        padding: 20px 40px;
+    }
+    .f-header{
+        font-size: 2vh;
+    }
+    .f-header h1{
+        font-size: 2vh;
+    }
+    .f-header .logo{
+        font-size: 4vh
+    }
+    .Container .text{
+        font-size: 2rem;
+        margin: 0;
+    }
+    .left{
+        padding-left: 10px;
+        width: 50%;
+        font-size: 11px;
+        overflow-x: hidden;
+    }
+    .keterangan{
+        font-size: 9px;
+    }
+    .food_foto_container{
+        width: 100%;
+    }
+    .food_list h1 {
+        font-size: 1rem;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 820px){
+    .Container .text{
+        font-size: 7vh;
+    }
+    .f-header{
+        font-size: 2vh;
+    }
+    .food_foto_container{
+        width: 100%;
+    }
+    .food_list h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}

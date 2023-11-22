@@ -120,17 +120,17 @@ function Main(props) {
                 {
                     nama_makanan:'Soto Betawi',
                     keterangan:'Soto Betawi adalah sup daging sapi khas Jakarta. Kuahnya yang gurih disajikan dengan potongan daging sapi, kentang, tomat, dan bawang goreng. Soto Betawi biasanya disajikan dengan nasi, emping, dan kerupuk. Makanan ini sangat populer di Jakarta dan sering dijadikan menu sarapan atau makan siang.',
-                    foto:['soto betawi.jpg','soto betawi-1.jpg']
+                    foto:['Soto betawi.jpg','Soto betawi-1.jpg']
                 },
                 {
                     nama_makanan:'Ketoprak',
                     keterangan:'Ketoprak adalah makanan khas Jakarta yang terdiri dari lontong (nasi ketupat), tahu, bihun, mentimun, dan tauge yang disiram dengan bumbu kacang yang kaya rasa. Ketoprak biasanya ditaburi dengan kerupuk dan disajikan dengan tambahan petis (saus terasi). Rasanya yang khas membuat Ketoprak menjadi makanan favorit banyak orang di Jakarta',
-                    foto:['ketoprak.jpg','ketoprak-1.jpg']
+                    foto:['Ketoprak.jpg','Ketoprak-1.jpg']
                 },
                 {
                     nama_makanan:'Gado Gado',
                     keterangan:'Gado-gado adalah hidangan salad sayur dengan bumbu kacang yang populer di seluruh Indonesia, termasuk di Jakarta. Gado-gado terdiri dari berbagai jenis sayuran, seperti kubis, mentimun, tauge, dan kangkung, yang disiram dengan bumbu kacang yang kental. Biasanya disajikan dengan lontong atau ketupat, dan kadang-kadang ditambahkan dengan potongan tahu dan tempe.',
-                    foto:['gado gado.jpg','gado gado-1.jpg']
+                    foto:['gado gado.jpg','Gado gado-1.jpg']
                 }
             ]
         },

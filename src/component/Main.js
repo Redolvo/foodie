@@ -36,7 +36,7 @@ function Main(props) {
                 {
                     nama_makanan:'Babi Guling',
                     keterangan:'Babi Guling adalah hidangan babi panggang utama di Bali. Babi utuh disuntik dengan rempah-rempah dan kemudian dipanggang hingga kulitnya renyah dan dagingnya lembut. Hidangan ini disajikan dengan nasi putih, sate babi, sayuran tumis, dan sambal.',
-                    foto:['babi guling.jpg','babi guling-1.jpg']
+                    foto:['Babi Guling.jpg','Babi Guling-1.jpg']
                 },
                 {
                     nama_makanan:'Ayam Betutu',
@@ -88,7 +88,7 @@ function Main(props) {
                 {
                     nama_makanan:'Kerupuk Kemplang',
                     keterangan:'Kerupuk Kemplang adalah makanan ringan yang populer di daerah Bengkulu, Indonesia. Kerupuk ini terbuat dari bahan dasar tepung tapioka yang dicetak dan dipanggang hingga mengembang. Proses pembuatannya melibatkan beberapa tahap, mulai dari membuat adonan tepung tapioka dengan air dan garam, mencetak adonan menjadi bentuk kerupuk dengan menggunakan cetakan khas, dan kemudian mengeringkannya dengan cara dipanggang.',
-                    foto:['kerupuk kemplang.jpeg','kerupuk kemplang-1.png']
+                    foto:['Kerupuk Kemplang.jpeg','Kerupuk Kemplang-1.png']
                 }
             ]
         },
@@ -99,17 +99,17 @@ function Main(props) {
                 {
                     nama_makanan:'Mie Belitung',
                     keterangan:'Mie Belitung adalah hidangan mie khas Pulau Belitung. Mie ini terbuat dari tepung terigu dan kuning telur yang digulung tipis dan panjang. Mie Belitung biasanya disajikan dengan kuah bening yang kaya rempah dan bumbu, serta dilengkapi dengan irisan daging ayam, udang, atau babi, serta ditambahkan telur rebus dan daun bawang sebagai pelengkap.',
-                    foto:['mie belitung.jpeg','mie belitung-1.jpg']
+                    foto:['Mie Belitung.jpeg','Mie Belitung-1.jpg']
                 },
                 {
                     nama_makanan:'Lempah Kuning',
                     keterangan:'Lempah Kuning adalah hidangan ikan yang khas dari Bangka Belitung. Ikan, biasanya ikan kakap atau ikan tenggiri, dimasak dalam kuah kuning yang terbuat dari campuran kunyit, asam kandis, lengkuas, daun kunyit, cabai, dan bawang merah. Lempah Kuning memiliki rasa gurih dan sedikit asam, sangat lezat disantap dengan nasi hangat.',
-                    foto:['lempah kuning.jpg','lempah kuning-1.jpg']
+                    foto:['Lempah Kuning.jpg','Lempah Kuning-1.jpg']
                 },
                 {
                     nama_makanan:'Gangan',
                     keterangan:'Gangan adalah hidangan sayur yang populer di Bangka Belitung. Sayuran seperti labu siam, nangka muda, daun singkong, dan terong dimasak dengan santan dan bumbu-bumbu seperti cabai, kunyit, dan bawang merah. Gangan biasanya disajikan dengan nasi putih, ikan asin, dan sambal terasi.',
-                    foto:['gangan.jpg','gangan-1.jpg']
+                    foto:['Gangan.jpg','Gangan-1.jpg']
                 }
             ]
         },
@@ -120,7 +120,7 @@ function Main(props) {
                 {
                     nama_makanan:'Soto Betawi',
                     keterangan:'Soto Betawi adalah sup daging sapi khas Jakarta. Kuahnya yang gurih disajikan dengan potongan daging sapi, kentang, tomat, dan bawang goreng. Soto Betawi biasanya disajikan dengan nasi, emping, dan kerupuk. Makanan ini sangat populer di Jakarta dan sering dijadikan menu sarapan atau makan siang.',
-                    foto:['Soto betawi.jpg','Soto betawi-1.jpg']
+                    foto:['Soto Betawi.jpg','Soto Betawi-1.jpg']
                 },
                 {
                     nama_makanan:'Ketoprak',
@@ -141,12 +141,12 @@ function Main(props) {
                 {
                     nama_makanan:'Sate Maranggi',
                     keterangan:'Sate Marangi adalah makanan khas Gorontalo yang terbuat dari daging sapi yang diiris tipis dan ditusuk dengan bambu lalu dibakar. Sate ini memiliki rasa yang kaya dan dihidangkan dengan bumbu kacang yang lezat.',
-                    foto:['sate maranggi.jpg','sate maranggi-1.jpg']
+                    foto:['Sate maranggi.jpg','Sate maranggi-1.jpg']
                 },
                 {
                     nama_makanan:'Nasi Jaha',
                     keterangan:'Nasi Jaha adalah hidangan nasi khas Gorontalo yang terbuat dari beras ketan hitam. Nasi ini dimasak dengan cara tradisional menggunakan tungku dan daun pisang sebagai wadahnya. Nasi Jaha memiliki tekstur lembut dan aroma yang khas.',
-                    foto:['nasi jaha.jpg','nasi jaha-1.jpg']
+                    foto:['Nasi jaha.jpg','Nasi jaha-1.jpg']
                 },
                 {
                     nama_makanan:'Cakalang Pampis',
@@ -162,17 +162,17 @@ function Main(props) {
                 {
                     nama_makanan:'Gulai Tempoyak',
                     keterangan:'Gulai Tempoyak adalah hidangan gulai khas Jambi yang menggunakan bahan dasar durian masak yang diolah menjadi tempoyak. Tempoyak adalah hasil fermentasi durian yang memiliki rasa asam dan khas. Dalam gulai ini, tempoyak dimasak bersama dengan daging, ikan, atau sayuran, serta bumbu rempah-rempah seperti kunyit, serai, cabai, dan daun jeruk.',
-                    foto:['gulai tempoyak.png','gulai tempoyak-1.jpg']
+                    foto:['Gulai Tempoyak.png','Gulai Tempoyak-1.jpg']
                 },
                 {
                     nama_makanan:'Pindang Ikan Patin',
                     keterangan:'Jambi terkenal dengan ikan patin, dan pindang ikan patin adalah hidangan khas yang populer di daerah ini. Ikan patin dimasak dalam kuah pindang yang terbuat dari campuran bumbu rempah seperti kunyit, jahe, bawang putih, daun salam, serta asam jawa untuk memberikan cita rasa asam yang khas. Pindang ikan patin biasanya disajikan dengan nasi dan sambal.',
-                    foto:['pindang ikan patin.jpg','pindang ikan patin-1.jpg']
+                    foto:['Pindang Ikan Patin.jpg','Pindang Ikan Patin-1.jpg']
                 },
                 {
                     nama_makanan:'Lempah Kulat Pelawan',
                     keterangan:'Lempah Kulat Pelawan adalah hidangan tradisional Jambi yang menggunakan bahan dasar jamur kulat Pelawan. Kulat Pelawan adalah jenis jamur yang tumbuh liar di hutan Jambi. Dalam hidangan ini, kulat Pelawan direbus dengan santan dan bumbu rempah-rempah seperti serai, lengkuas, dan daun salam. Hidangan ini memiliki rasa gurih dan sedikit pedas.',
-                    foto:['lempah kulat pelawan.jpg','lempah kulat pelawan-1.jpg']
+                    foto:['Lempah kulat pelawan.jpg','Lempah kulat pelawan-1.jpg']
                 }
             ]
         },
@@ -183,17 +183,17 @@ function Main(props) {
                 {
                     nama_makanan:'Nasi Timbel',
                     keterangan:'Nasi timbel adalah hidangan nasi yang dibungkus dalam daun pisang. Biasanya disajikan dengan lauk pauk seperti ikan bakar, ayam goreng, tempe goreng, dan sambal. Nasi timbel memiliki aroma khas dari daun pisang yang memberikan cita rasa yang lezat.',
-                    foto:['nasi timbel.jpg','nasi timbel-1.jpg']
+                    foto:['Nasi Timbel.jpg','Nasi Timbel-1.jpg']
                 },
                 {
                     nama_makanan:'Batagor',
                     keterangan:'Batagor merupakan singkatan dari bakso tahu goreng, yang terdiri dari bola-bola bakso ikan yang digoreng, disajikan dengan tahu goreng, dan dituangi dengan saus kacang dan kecap. Batagor sering dijadikan sebagai makanan jajanan atau camilan di Jawa Barat.',
-                    foto:['batagor.jpg','batagor-1.jpg']
+                    foto:['Batagor.jpg','Batagor-1.jpg']
                 },
                 {
                     nama_makanan:'Surabi',
                     keterangan:'Surabi adalah sejenis pancake atau kue dadar yang terbuat dari adonan tepung beras dan kelapa parut. Surabi memiliki tekstur yang lembut dan gurih. Biasanya disajikan dengan taburan kelapa parut dan ditambahkan gula merah cair.',
-                    foto:['surabi.jpg','surabi-1.jpg']
+                    foto:['Surabi.jpg','Surabi-1.jpg']
                 }
             ]
         },
@@ -204,17 +204,17 @@ function Main(props) {
                 {
                     nama_makanan:'Nasi Gudeg',
                     keterangan:'Makanan khas Yogyakarta yang terdiri dari nasi yang dimasak dengan kelapa dan gudeg (olahan nangka muda yang dimasak dengan gula kelapa dan rempah). Biasanya disajikan dengan ayam kampung, telur, tahu, tempe, dan sambal krecek.',
-                    foto:['nasi gudeg.jpeg','nasi gudeg-1.jpg']
+                    foto:['Nasi gudeg.jpeg','Nasi gudeg-1.jpg']
                 },
                 {
                     nama_makanan:'Soto Kudus',
                     keterangan:'Soto yang berasal dari Kudus, Jawa Tengah. Kuah kaldu ayam yang kaya rempah dengan tambahan daging ayam, telur, tauge, dan daun seledri. Soto Kudus juga biasanya disajikan dengan nasi atau lontong.',
-                    foto:['soto kudus.jpg','soto kudus-1.jpg']
+                    foto:['Soto kudus.jpg','Soto kudus-1.jpg']
                 },
                 {
                     nama_makanan:'Nasi Liwet',
                     keterangan:'Nasi yang dimasak dengan santan, serai, daun salam, dan rempah-rempah, seperti bawang merah, bawang putih, dan kunyit. Nasi liwet biasanya disajikan dengan lauk seperti ayam goreng, ikan asin, tahu, tempe, dan sambal.',
-                    foto:['nasi liwet.jpg','nasi liwet-1.jpg']
+                    foto:['Nasi liwet.jpg','Nasi liwet-1.jpg']
                 }
             ]
         },
@@ -225,17 +225,17 @@ function Main(props) {
                 {
                     nama_makanan:'Rawon',
                     keterangan:'Rawon adalah sup daging berkuah hitam yang terbuat dari bumbu kluwek yang khas. Biasanya disajikan dengan potongan daging sapi, tauge, dan emping. Rasanya gurih dan kaya rempah.',
-                    foto:['rawon.jpg','rawon-1.jpg']
+                    foto:['Rawon.jpg','Rawon-1.jpg']
                 },
                 {
                     nama_makanan:'Rujak Cingur',
                     keterangan:'Rujak Cingur adalah campuran buah-buahan segar seperti timun, mangga, dan nanas dengan tambahan cingur, yaitu irisan mulut dan hidung sapi yang direbus. Disajikan dengan saus petis khas Jawa Timur, rujak cingur memiliki perpaduan rasa asam, pedas, dan gurih yang lezat.',
-                    foto:['Rujak Cingur.jpg','Rujak Cingur-1.jpg']
+                    foto:['Rujak Cingur.jpg','Rujak cingur-1.jpg']
                 },
                 {
                     nama_makanan:'Tahu Campur',
                     keterangan:'Tahu Campur adalah hidangan berupa tahu goreng yang diiris tipis-tipis dan dicampur dengan taoge, irisan mentimun, telur rebus, dan mie. Disajikan dengan kuah kacang yang kental dan ditaburi bawang goreng, tahu campur memiliki rasa yang gurih dan segar.',
-                    foto:['tahu campur.jpg','tahu campur-1.jpg']
+                    foto:['Tahu Campur.jpg','Tahu Campur-1.jpg']
                 }
             ]
         },
@@ -246,17 +246,17 @@ function Main(props) {
                 {
                     nama_makanan:'lontong Melayu',
                     keterangan:'Lontong Melayu adalah hidangan nasi ketupat yang terbuat dari beras yang dikukus dalam daun pisang. Lontong Melayu biasanya disajikan dengan kuah kari yang kaya rempah-rempah dan santan. Hidangan ini sering disertai dengan berbagai lauk seperti rendang, sambal goreng, telur pindang, dan urap.',
-                    foto:['lontong Melayu.jpg','lontong Melayu-1.jpg']
+                    foto:['Lontong melayu.jpg','Lontong Melayu-1.jpg']
                 },
                 {
                     nama_makanan:'Ketupat Sotong',
                     keterangan:'Ketupat Sotong adalah hidangan khas Kepulauan Riau yang terdiri dari ketupat yang dibungkus dalam sotong atau cumi-cumi yang direbus. Hidangan ini memiliki rasa yang lezat karena bumbu rempah seperti kunyit, lengkuas, serai, dan daun pandan yang digunakan saat merebusnya. Ketupat Sotong biasanya disajikan dengan kuah santan dan saus sambal',
-                    foto:['Ketupat Sotong.jpg','Ketupat Sotong-1.jpg']
+                    foto:['Ketupat Sotong.jpg','Ketupat sotong-1.jpg']
                 },
                 {
                     nama_makanan:'Kerang Rebus',
                     keterangan:'Kerang Rebus adalah hidangan populer di Kepulauan Riau yang terdiri dari kerang yang direbus dengan bumbu-bumbu rempah dan garam. Kerang yang dimasak memiliki rasa gurih dan tekstur kenyal. Kerang Rebus biasanya disajikan dengan saus sambal atau cuka sebagai tambahan rasa',
-                    foto:['Kerang Rebus.jpg','Kerang Rebus-1.jpg']
+                    foto:['Kerang rebus.jpg','Kerang Rebus-1.jpg']
                 }
             ]
         },
@@ -267,12 +267,12 @@ function Main(props) {
                 {
                     nama_makanan:'Soto Banjar',
                     keterangan:'Soto Banjar adalah hidangan sup tradisional yang terkenal di Kalimantan Barat. Ini adalah sup daging yang kaya dengan rempah-rempah seperti serai, lengkuas, dan daun jeruk. Soto Banjar disajikan dengan nasi, potongan daging sapi, suwiran ayam, dan ditaburi bawang goreng serta daun seledri.',
-                    foto:['Soto Banjar.jpg','Soto Banjar-1.jpg']
+                    foto:['Soto banjar.jpg','Soto banjar-1.jpg']
                 },
                 {
                     nama_makanan:'Ampiang Dadiah',
                     keterangan:'Ampiang Dadiah adalah makanan penutup khas Kalimantan Barat. Ini adalah sejenis makanan penutup berbasis susu fermentasi dengan tekstur lembut yang mirip dengan yogurt. Rasanya segar, manis, dan sedikit asam. Ampiang Dadiah biasanya disajikan dengan taburan kelapa parut dan sirup gula merah.',
-                    foto:['Ampiang Dadiah.jpg','Ampiang Dadiah-1.jpg']
+                    foto:['ampiang dadiah.jpg','Ampiang dadiah-1.jpg']
                 },
                 {
                     nama_makanan:'Serondeng',
@@ -288,17 +288,17 @@ function Main(props) {
                 {
                     nama_makanan:'Ketupat Kandangan',
                     keterangan:'Soto Banjar adalah hidangan sup khas Kalimantan Timur yang terbuat dari daging sapi, ayam, atau ikan yang dimasak dalam kuah bening yang kaya rempah-rempah. Soto Banjar disajikan dengan nasi, bihun, atau ketupat, serta diberi tambahan perkedel atau emping.',
-                    foto:['Ketupat Kandangan.jpg','Ketupat Kandangan-1.jpg']
+                    foto:['Ketupat kandangan.jpg','Ketupat kandangan-1.jpg']
                 },
                 {
                     nama_makanan:'Kepiting Kenari',
                     keterangan:'Kepiting Kenari adalah hidangan seafood yang terkenal di Kalimantan Timur. Kepiting direbus dan kemudian dimasak dengan bumbu kenari, yakni campuran bumbu khas seperti cabai, kemiri, lengkuas, jahe, dan rempah-rempah lainnya. Hidangan ini memiliki cita rasa pedas dan gurih.',
-                    foto:['Kepiting Kenari.jpg','Kepiting Kenari-1.jpg']
+                    foto:['Kepiting kenari.jpg','Kepiting kenari-1.jpg']
                 },
                 {
                     nama_makanan:'Ikan Sambal Taliwang',
                     keterangan:'Meskipun dikenal sebagai makanan khas Lombok, Ikan Sambal Taliwang juga populer di Kalimantan Timur. Hidangan ini terdiri dari ikan bakar yang dilumuri dengan sambal pedas khas Taliwang yang terbuat dari cabai, bawang merah, bawang putih, tomat, dan rempah-rempah.',
-                    foto:['Ikan Sambal Taliwang.jpeg','Ikan Sambal Taliwang-1.jpg']
+                    foto:['ikan sambal taliwang.jpeg','ikan sambal taliwang-1.jpg']
                 }
             ]
         },
@@ -309,17 +309,17 @@ function Main(props) {
                 {
                     nama_makanan:'Ampyang',
                     keterangan:'Ampyang adalah camilan khas Martapura, sebuah kota di Kalimantan Selatan. Ampyang terbuat dari kelapa parut yang dikeringkan dan diberi campuran gula merah, sehingga menghasilkan rasa manis dan gurih. Camilan ini biasanya dijual dalam bentuk bungkusan kecil dan memiliki tekstur yang renyah.',
-                    foto:['Ampyang.jpg','Ampyang-1.jpg']
+                    foto:['Ampyang.jpg','ampyang-1.jpg']
                 },
                 {
                     nama_makanan:'Sambal Tempoyak',
                     keterangan:'Sambal Tempoyak adalah sambal yang terbuat dari durian yang difermentasi. Rasa sambal ini unik dan memiliki aroma yang khas. Biasanya digunakan sebagai pelengkap untuk hidangan seperti ikan bakar, sate, atau sayuran.',
-                    foto:['Sambal Tempoyak.jpg','Sambal Tempoyak-1.jpg']
+                    foto:['Sambal tempoyak.jpg','Sambal tempoyak-1.jpg']
                 },
                 {
                     nama_makanan:'Soto Banjar Barito Kuala',
                     keterangan:'Soto Banjar Barito Kuala adalah variasi soto Banjar yang terkenal di Kabupaten Barito Kuala, Kalimantan Selatan. Soto ini memiliki kuah yang kental dan gurih, dengan daging sapi, tomat, daun bawang, dan perkedel sebagai tambahan',
-                    foto:['Soto Banjar Barito Kuala.jpg','Soto Banjar Barito Kuala-1.jpg']
+                    foto:['Soto banjar barito kuala.jpg','Soto banjar barito kuala-1.jpg']
                 }
             ]
         },
